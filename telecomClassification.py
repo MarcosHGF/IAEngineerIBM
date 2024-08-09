@@ -59,4 +59,4 @@ plt.xlabel('Number of Neighbors (K)')
 plt.tight_layout()
 plt.show()
 
-print( "The best accuracy was with", mean_acc.max(), "with k=", mean_acc.argmax()+1) 
+print( "The best accuracy was with", mean_acc.max(), "with k=", mean_acc.argmax()+1)
